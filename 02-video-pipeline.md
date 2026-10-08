@@ -314,8 +314,8 @@ Watch the first 2:30 of a competitor outlier (e.g. Ollie `lzA2Ie-vxKU`, POV Fina
 
 Then update 6B. In Claude with NexLev you can also run `watch_youtube_video_and_ask` with `startOffset="0s", endOffset="150s"` and ask for exactly these points (it has a daily limit).
 
-### ⏸ 6D. Voice
-Out of scope for now. Placeholder: calm, warm, mid-paced (~155–165 wpm) male or female narrator.
+### 6D. Voice
+See `03-production-bible.md` §2. Target 155–162 wpm (measured on Ollie's winners), a calm documentary narrator, ElevenLabs settings and TTS script markup.
 
 ---
 
